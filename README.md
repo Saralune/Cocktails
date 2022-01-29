@@ -1,5 +1,7 @@
 # Cocktails
 
+This is a project from **[Dyma](https://dyma.fr)'s lesson**. Here, we use *Angular components* and make a list of differents cocktails. We can also *create and edit* them.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
 ## Development server
